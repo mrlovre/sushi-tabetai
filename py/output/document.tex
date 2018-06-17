@@ -1,0 +1,44 @@
+\documentclass[10pt]{report}
+\usepackage[a4paper, margin=1cm, bottom=2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{parskip}
+\usepackage{multicol}
+\usepackage{tocloft}
+\usepackage{tabularx}
+
+\setlength{\cftsecindent}{0pt}
+\makeatletter
+\newcommand{\twocolumntoc}{%
+  \chapter*{\contentsname
+    \@mkboth{%
+      \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
+  \@starttoc{toc}%
+}
+\makeatother
+
+
+\title{Bosnian-Croatian-Serbian Basic Words --- \\ Declension and Conjugation Dictionary \\ {\Large (grouped by concept)}}
+\author{MrLovre}
+\date{Version 0.1\\\today}
+
+\setcounter{secnumdepth}{0}
+\setlength\columnsep{1cm}
+
+\begin{document}
+  \maketitle
+  \pagenumbering{roman}
+  \twocolumn
+  \twocolumntoc
+  \onecolumn
+  \cleardoublepage
+  \pagenumbering{arabic}
+  \begin{multicols}{2}
+  \raggedcolumns
+  \setlist[enumerate]{itemsep=0pt}
+  
+  \input{output}
+  \end{multicols}
+\end{document}

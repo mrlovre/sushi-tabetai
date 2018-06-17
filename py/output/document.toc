@@ -1,0 +1,435 @@
+\contentsline {section}{\relax $\@@underline {\hbox {\IeC {\v z}ivotinja (f)}}\mathsurround \z@ $\relax }{1}
+\contentsline {section}{pas (m)}{1}
+\contentsline {section}{pas (m)}{1}
+\contentsline {section}{pas (m)}{1}
+\contentsline {section}{ker (m)}{1}
+\contentsline {section}{ma\IeC {\v c}ka (f)}{1}
+\contentsline {section}{riba (f)}{2}
+\contentsline {section}{ptica (f)}{2}
+\contentsline {section}{krava (f)}{2}
+\contentsline {section}{svinja (f)}{2}
+\contentsline {section}{mi\IeC {\v s} (m)}{2}
+\contentsline {section}{konj (m)}{2}
+\contentsline {section}{\relax $\@@underline {\hbox {prijevoz (m)}}\mathsurround \z@ $\relax }{3}
+\contentsline {section}{vlak (m)}{3}
+\contentsline {section}{voz (m)}{3}
+\contentsline {section}{avion (m)}{3}
+\contentsline {section}{automobil (m)}{4}
+\contentsline {section}{kamion (m)}{4}
+\contentsline {section}{bicikl (m)}{4}
+\contentsline {section}{autobus (m)}{4}
+\contentsline {section}{\IeC {\v c}amac (m)}{4}
+\contentsline {section}{brod (m)}{4}
+\contentsline {section}{kota\IeC {\v c} (m)}{5}
+\contentsline {section}{kolo (n)}{5}
+\contentsline {section}{gorivo (n)}{5}
+\contentsline {section}{motor (m)}{5}
+\contentsline {section}{karta (f)}{5}
+\contentsline {section}{\relax $\@@underline {\hbox {mjesto (n)}}\mathsurround \z@ $\relax }{5}
+\contentsline {section}{grad (m)}{6}
+\contentsline {section}{grad (m)}{6}
+\contentsline {section}{grad (m)}{6}
+\contentsline {section}{ku\IeC {\'c}a (f)}{6}
+\contentsline {section}{stan (m)}{7}
+\contentsline {section}{ulica (f)}{7}
+\contentsline {section}{cesta (f)}{7}
+\contentsline {section}{aerodrom (m)}{7}
+\contentsline {section}{most (m)}{8}
+\contentsline {section}{hotel (m)}{8}
+\contentsline {section}{restoran (m)}{8}
+\contentsline {section}{farma (f)}{8}
+\contentsline {section}{knji\IeC {\v z}nica (f)}{8}
+\contentsline {section}{biblioteka (f)}{8}
+\contentsline {section}{crkva (f)}{9}
+\contentsline {section}{trgovina (f)}{9}
+\contentsline {section}{drz\IeC {\v z}va (f)}{9}
+\contentsline {section}{zgrada (f)}{9}
+\contentsline {section}{tlo (n)}{9}
+\contentsline {section}{svemir (m)}{9}
+\contentsline {section}{vasiona (f)}{10}
+\contentsline {section}{banka (f)}{10}
+\contentsline {section}{\relax $\@@underline {\hbox {odje\IeC {\'c}a (f)}}\mathsurround \z@ $\relax }{10}
+\contentsline {section}{\IeC {\v s}e\IeC {\v s}ir (m)}{10}
+\contentsline {section}{haljina (f)}{11}
+\contentsline {section}{odijelo (n)}{11}
+\contentsline {section}{suknja (f)}{11}
+\contentsline {section}{ko\IeC {\v s}ulja (f)}{11}
+\contentsline {section}{majica (f)}{11}
+\contentsline {section}{hla\IeC {\v c}e (f pl)}{12}
+\contentsline {section}{pantalone (f)}{12}
+\contentsline {section}{cipela (f)}{12}
+\contentsline {section}{patika (f)}{12}
+\contentsline {section}{d\IeC {\v z}ep (m)}{12}
+\contentsline {section}{kaput (m)}{13}
+\contentsline {section}{mrlja (f)}{13}
+\contentsline {section}{\relax $\@@underline {\hbox {boja (f)}}\mathsurround \z@ $\relax }{13}
+\contentsline {section}{crvena}{13}
+\contentsline {section}{zelena}{13}
+\contentsline {section}{plava}{13}
+\contentsline {section}{\IeC {\v z}uta}{13}
+\contentsline {section}{sme\IeC {\dj }a}{13}
+\contentsline {section}{ljubi\IeC {\v c}asta}{13}
+\contentsline {section}{naran\IeC {\v c}asta}{13}
+\contentsline {section}{crna}{14}
+\contentsline {section}{bijela}{14}
+\contentsline {section}{siva}{14}
+\contentsline {section}{\relax $\@@underline {\hbox {\IeC {\v c}ovjek (m)}}\mathsurround \z@ $\relax }{14}
+\contentsline {section}{sin (m)}{14}
+\contentsline {section}{sin (m)}{14}
+\contentsline {section}{k\IeC {\'c}i (f)}{15}
+\contentsline {section}{majka (f)}{15}
+\contentsline {section}{otac (m)}{15}
+\contentsline {section}{roditelj (m)}{15}
+\contentsline {section}{dijete (n)}{16}
+\contentsline {section}{mu\IeC {\v s}karac (m)}{16}
+\contentsline {section}{\IeC {\v z}ena (f)}{16}
+\contentsline {section}{brat (m)}{16}
+\contentsline {section}{sestra (f)}{17}
+\contentsline {section}{obitelj (f)}{17}
+\contentsline {section}{familija (f)}{17}
+\contentsline {section}{djed (m)}{17}
+\contentsline {section}{baka (f)}{17}
+\contentsline {section}{mu\IeC {\v z} (m)}{17}
+\contentsline {section}{kralj (m)}{18}
+\contentsline {section}{kraljica (f)}{18}
+\contentsline {section}{predsjednik (m)}{18}
+\contentsline {section}{susjed (m)}{18}
+\contentsline {section}{sused (m)}{18}
+\contentsline {section}{de\IeC {\v c}ko (m)}{19}
+\contentsline {section}{cura (f)}{19}
+\contentsline {section}{prijatelj (m)}{19}
+\contentsline {section}{prijateljica (f)}{19}
+\contentsline {section}{susjed (m)}{19}
+\contentsline {section}{kom\IeC {\v s}ija (m)}{20}
+\contentsline {section}{igra\IeC {\v c} (m)}{20}
+\contentsline {section}{navija\IeC {\v c} (m)}{20}
+\contentsline {section}{gu\IeC {\v z}va (f)}{20}
+\contentsline {section}{osoba (f)}{20}
+\contentsline {section}{\relax $\@@underline {\hbox {posao (m)}}\mathsurround \z@ $\relax }{21}
+\contentsline {section}{u\IeC {\v c}itelj (m)}{21}
+\contentsline {section}{u\IeC {\v c}iteljica (f)}{21}
+\contentsline {section}{u\IeC {\v c}enik (m)}{21}
+\contentsline {section}{u\IeC {\v c}enica (f)}{21}
+\contentsline {section}{student (m)}{21}
+\contentsline {section}{studentica}{22}
+\contentsline {section}{odvjetnik (m)}{22}
+\contentsline {section}{advokat (m)}{22}
+\contentsline {section}{doktor (m)}{22}
+\contentsline {section}{pacijent (m)}{22}
+\contentsline {section}{konobar (m)}{22}
+\contentsline {section}{tajnik (m)}{23}
+\contentsline {section}{sekretar (m)}{23}
+\contentsline {section}{sve\IeC {\'c}enik (m)}{23}
+\contentsline {section}{sve\IeC {\v s}tenik (m)}{23}
+\contentsline {section}{policajac (m)}{24}
+\contentsline {section}{vojnik (m)}{24}
+\contentsline {section}{umjetnik (m)}{24}
+\contentsline {section}{pisac (m)}{24}
+\contentsline {section}{menad\IeC {\v z}er (m)}{25}
+\contentsline {section}{reporter (m)}{25}
+\contentsline {section}{glumac (m)}{25}
+\contentsline {section}{\relax $\@@underline {\hbox {dru\IeC {\v s}tvo (n)}}\mathsurround \z@ $\relax }{25}
+\contentsline {section}{religija (f)}{26}
+\contentsline {section}{raj (m)}{26}
+\contentsline {section}{pakao (m)}{26}
+\contentsline {section}{smrt (f)}{26}
+\contentsline {section}{medicina (f)}{26}
+\contentsline {section}{novac (m)}{26}
+\contentsline {section}{dolar (m)}{27}
+\contentsline {section}{ra\IeC {\v c}un (m)}{27}
+\contentsline {section}{vjen\IeC {\v c}anje (n)}{27}
+\contentsline {section}{ekipa (f)}{27}
+\contentsline {section}{rat (m)}{28}
+\contentsline {section}{mir (m)}{28}
+\contentsline {section}{napad (m)}{28}
+\contentsline {section}{izbor (m)}{28}
+\contentsline {section}{\IeC {\v c}asopis (m)}{28}
+\contentsline {section}{novine (f pl)}{28}
+\contentsline {section}{otrov (m)}{29}
+\contentsline {section}{pi\IeC {\v s}tolj (m)}{29}
+\contentsline {section}{sport (m)}{29}
+\contentsline {section}{utrka (f)}{29}
+\contentsline {section}{vje\IeC {\v z}ba (f)}{30}
+\contentsline {section}{trening (m)}{30}
+\contentsline {section}{lopta (f)}{30}
+\contentsline {section}{igra (f)}{30}
+\contentsline {section}{cijena (f)}{31}
+\contentsline {section}{ugovor (m)}{31}
+\contentsline {section}{lijek (m)}{31}
+\contentsline {section}{znak (m)}{31}
+\contentsline {section}{znanost (f)}{31}
+\contentsline {section}{nauka (f)}{31}
+\contentsline {section}{bog (m)}{32}
+\contentsline {section}{\relax $\@@underline {\hbox {umjetnost (f)}}\mathsurround \z@ $\relax }{32}
+\contentsline {section}{bend (m)}{32}
+\contentsline {section}{pjesma (f)}{32}
+\contentsline {section}{ples (m)}{33}
+\contentsline {section}{instrument}{33}
+\contentsline {section}{glazba (f)}{33}
+\contentsline {section}{muzika (f)}{33}
+\contentsline {section}{film (m)}{33}
+\contentsline {section}{\relax $\@@underline {\hbox {pi\IeC {\'c}e (n)}}\mathsurround \z@ $\relax }{33}
+\contentsline {section}{kava (f)}{34}
+\contentsline {section}{\IeC {\v c}aj (m)}{34}
+\contentsline {section}{vino (n)}{34}
+\contentsline {section}{pivo (n)}{34}
+\contentsline {section}{sok (m)}{34}
+\contentsline {section}{voda (f)}{35}
+\contentsline {section}{mlijeko (n)}{35}
+\contentsline {section}{\relax $\@@underline {\hbox {hrana (f)}}\mathsurround \z@ $\relax }{35}
+\contentsline {section}{jaje (n)}{35}
+\contentsline {section}{sir (m)}{35}
+\contentsline {section}{kruh (m)}{36}
+\contentsline {section}{hleb (m)}{36}
+\contentsline {section}{juha (f)}{36}
+\contentsline {section}{supa (f)}{36}
+\contentsline {section}{kola\IeC {\v c} (m)}{36}
+\contentsline {section}{torta (f)}{37}
+\contentsline {section}{piletina (f)}{37}
+\contentsline {section}{svinjetina (f)}{37}
+\contentsline {section}{govedina (f)}{37}
+\contentsline {section}{jabuka (f)}{37}
+\contentsline {section}{banana (f)}{38}
+\contentsline {section}{naran\IeC {\v c}a (f)}{38}
+\contentsline {section}{pomorand\IeC {\v z}a (f)}{38}
+\contentsline {section}{limun (m)}{38}
+\contentsline {section}{kukuruz (m)}{38}
+\contentsline {section}{ri\IeC {\v z}a (f)}{38}
+\contentsline {section}{ulje (n)}{39}
+\contentsline {section}{no\IeC {\v z} (m)}{39}
+\contentsline {section}{\IeC {\v z}lica (f)}{39}
+\contentsline {section}{ka\IeC {\v s}ika (f)}{39}
+\contentsline {section}{vilica (f)}{39}
+\contentsline {section}{tanjur (m)}{39}
+\contentsline {section}{tanjir (m)}{40}
+\contentsline {section}{\IeC {\v s}alica (f)}{40}
+\contentsline {section}{\IeC {\v s}olja}{40}
+\contentsline {section}{doru\IeC {\v c}ak (m)}{40}
+\contentsline {section}{ru\IeC {\v c}ak (m)}{41}
+\contentsline {section}{ve\IeC {\v c}era (f)}{41}
+\contentsline {section}{\IeC {\v s}e\IeC {\'c}er (m)}{41}
+\contentsline {section}{sol (f)}{41}
+\contentsline {section}{so (f)}{41}
+\contentsline {section}{boca (f)}{41}
+\contentsline {section}{mrkva (f)}{42}
+\contentsline {section}{\IeC {\v s}argarepa (f)}{42}
+\contentsline {section}{gra\IeC {\v s}ak (m)}{42}
+\contentsline {section}{boranija (f)}{42}
+\contentsline {section}{\relax $\@@underline {\hbox {dom (m)}}\mathsurround \z@ $\relax }{42}
+\contentsline {section}{stol (m)}{43}
+\contentsline {section}{sto (m)}{43}
+\contentsline {section}{sto (m)}{43}
+\contentsline {section}{stolica (f)}{43}
+\contentsline {section}{krevet (m)}{43}
+\contentsline {section}{san (m)}{43}
+\contentsline {section}{prozor (m)}{44}
+\contentsline {section}{vrata (n pl)}{44}
+\contentsline {section}{soba (f)}{44}
+\contentsline {section}{kuhinja (f)}{44}
+\contentsline {section}{kupaonica (f)}{44}
+\contentsline {section}{olovka (f)}{44}
+\contentsline {section}{gumica (f)}{45}
+\contentsline {section}{slika (f)}{45}
+\contentsline {section}{sapun (m)}{45}
+\contentsline {section}{knjiga (f)}{45}
+\contentsline {section}{stranica (f)}{45}
+\contentsline {section}{papir (m)}{46}
+\contentsline {section}{klju\IeC {\v c} (m)}{46}
+\contentsline {section}{boja (f)}{46}
+\contentsline {section}{pismo (n)}{46}
+\contentsline {section}{podsjetnik (m)}{46}
+\contentsline {section}{zid (m)}{46}
+\contentsline {section}{pod (m)}{47}
+\contentsline {section}{pod (m)}{47}
+\contentsline {section}{strop (m)}{47}
+\contentsline {section}{krov (m)}{48}
+\contentsline {section}{bazen (m)}{48}
+\contentsline {section}{brava (f)}{48}
+\contentsline {section}{telefon (m)}{48}
+\contentsline {section}{vrt (m)}{48}
+\contentsline {section}{dvori\IeC {\v s}te (n)}{49}
+\contentsline {section}{igla (f)}{49}
+\contentsline {section}{torba (f)}{49}
+\contentsline {section}{kutija (f)}{49}
+\contentsline {section}{dar (m)}{49}
+\contentsline {section}{kartica (f)}{50}
+\contentsline {section}{prsten (m)}{50}
+\contentsline {section}{alat (m)}{50}
+\contentsline {section}{\relax $\@@underline {\hbox {ure\IeC {\dj }aj (m)}}\mathsurround \z@ $\relax }{50}
+\contentsline {section}{sat (m)}{51}
+\contentsline {section}{svjetiljka (f)}{51}
+\contentsline {section}{ventilator (m)}{51}
+\contentsline {section}{internet}{51}
+\contentsline {section}{ra\IeC {\v c}unalo (n)}{51}
+\contentsline {section}{ra\IeC {\v c}unar (m)}{52}
+\contentsline {section}{program (m)}{52}
+\contentsline {section}{laptop}{52}
+\contentsline {section}{ekran (m)}{52}
+\contentsline {section}{kamera (f)}{52}
+\contentsline {section}{televizor (m)}{53}
+\contentsline {section}{radio (m)}{53}
+\contentsline {section}{\relax $\@@underline {\hbox {tijelo (n)}}\mathsurround \z@ $\relax }{53}
+\contentsline {section}{glava (f)}{53}
+\contentsline {section}{vrat (m)}{53}
+\contentsline {section}{lice (n)}{54}
+\contentsline {section}{brada (f)}{54}
+\contentsline {section}{kosa (f)}{54}
+\contentsline {section}{kosa (f)}{54}
+\contentsline {section}{kosa (f)}{54}
+\contentsline {section}{oko (n)}{55}
+\contentsline {section}{oko (n)}{55}
+\contentsline {section}{usta (n pl)}{55}
+\contentsline {section}{usna (f)}{55}
+\contentsline {section}{nos (m)}{55}
+\contentsline {section}{zub (m)}{55}
+\contentsline {section}{uho (n)}{56}
+\contentsline {section}{suza (f)}{56}
+\contentsline {section}{jezik (m)}{56}
+\contentsline {section}{le\IeC {\dj }a (n pl)}{56}
+\contentsline {section}{prst (m)}{57}
+\contentsline {section}{stopalo (n)}{57}
+\contentsline {section}{noga (f)}{57}
+\contentsline {section}{ruka (f)}{57}
+\contentsline {section}{rame (n)}{57}
+\contentsline {section}{srce (n)}{57}
+\contentsline {section}{krv (f)}{58}
+\contentsline {section}{mozak (m)}{58}
+\contentsline {section}{koljeno (n)}{58}
+\contentsline {section}{znoj (m)}{58}
+\contentsline {section}{bolest (f)}{58}
+\contentsline {section}{kost (f)}{59}
+\contentsline {section}{glas (m)}{59}
+\contentsline {section}{ko\IeC {\v z}a (f)}{59}
+\contentsline {section}{\relax $\@@underline {\hbox {priroda (f)}}\mathsurround \z@ $\relax }{59}
+\contentsline {section}{more (n)}{60}
+\contentsline {section}{more (n)}{60}
+\contentsline {section}{ocean (m)}{60}
+\contentsline {section}{okean (m)}{60}
+\contentsline {section}{rijeka (f)}{60}
+\contentsline {section}{planina, planina (f)}{61}
+\contentsline {section}{ki\IeC {\v s}a (f)}{61}
+\contentsline {section}{snijeg (m)}{61}
+\contentsline {section}{stablo (n)}{61}
+\contentsline {section}{sunce (n)}{62}
+\contentsline {section}{mjesec (m)}{62}
+\contentsline {section}{mesec (m)}{62}
+\contentsline {section}{svijet (m)}{62}
+\contentsline {section}{zemlja (f)}{63}
+\contentsline {section}{\IeC {\v s}uma (f)}{63}
+\contentsline {section}{nebo (n)}{63}
+\contentsline {section}{biljka (f)}{63}
+\contentsline {section}{vjetar (m)}{63}
+\contentsline {section}{vetar (m)}{64}
+\contentsline {section}{cvijet (m)}{64}
+\contentsline {section}{dolina (f)}{64}
+\contentsline {section}{korijen (m)}{64}
+\contentsline {section}{jezero (n)}{65}
+\contentsline {section}{zvijezda (f)}{65}
+\contentsline {section}{trava (f)}{65}
+\contentsline {section}{list (m)}{65}
+\contentsline {section}{zrak (m)}{65}
+\contentsline {section}{vazduh (m)}{66}
+\contentsline {section}{pijesak (m)}{66}
+\contentsline {section}{pla\IeC {\v z}a (f)}{66}
+\contentsline {section}{val (m)}{66}
+\contentsline {section}{vatra (f)}{66}
+\contentsline {section}{led (m)}{67}
+\contentsline {section}{otok (m)}{67}
+\contentsline {section}{otok (m)}{67}
+\contentsline {section}{ostrvo (n)}{67}
+\contentsline {section}{brdo (n)}{67}
+\contentsline {section}{toplina (f)}{68}
+\contentsline {section}{\relax $\@@underline {\hbox {materijal (m)}}\mathsurround \z@ $\relax }{68}
+\contentsline {section}{staklo (n)}{68}
+\contentsline {section}{metal (m)}{68}
+\contentsline {section}{plastika (f)}{68}
+\contentsline {section}{drvo (n)}{68}
+\contentsline {section}{kamen (m)}{69}
+\contentsline {section}{dijamant (m)}{69}
+\contentsline {section}{glina (f)}{69}
+\contentsline {section}{prah (m)}{69}
+\contentsline {section}{zlato (n)}{69}
+\contentsline {section}{bakar (m)}{70}
+\contentsline {section}{srebro (n)}{70}
+\contentsline {section}{\relax $\@@underline {\hbox {matematika (f)}}\mathsurround \z@ $\relax }{70}
+\contentsline {section}{metar (m)}{70}
+\contentsline {section}{centimetar (m)}{70}
+\contentsline {section}{kilogram (m)}{70}
+\contentsline {section}{in\IeC {\v c} (m)}{71}
+\contentsline {section}{stopa (f)}{71}
+\contentsline {section}{funta (f)}{71}
+\contentsline {section}{polovica (f)}{71}
+\contentsline {section}{polovina (f)}{71}
+\contentsline {section}{krug (m)}{72}
+\contentsline {section}{kvadrat (m)}{72}
+\contentsline {section}{temperatura (f)}{72}
+\contentsline {section}{datum (m)}{72}
+\contentsline {section}{te\IeC {\v z}ina (f)}{72}
+\contentsline {section}{rub (m)}{73}
+\contentsline {section}{kut (m)}{73}
+\contentsline {section}{\relax $\@@underline {\hbox {smjer (m)}}\mathsurround \z@ $\relax }{73}
+\contentsline {section}{vrh (m)}{73}
+\contentsline {section}{dno (n)}{73}
+\contentsline {section}{strana (f)}{74}
+\contentsline {section}{naprijed}{74}
+\contentsline {section}{nazad}{74}
+\contentsline {section}{vani}{74}
+\contentsline {section}{unutra}{74}
+\contentsline {section}{gore}{74}
+\contentsline {section}{dolje}{74}
+\contentsline {section}{lijevo}{74}
+\contentsline {section}{desno}{74}
+\contentsline {section}{ravno}{74}
+\contentsline {section}{sjever (m)}{74}
+\contentsline {section}{jug (m)}{74}
+\contentsline {section}{istok (m)}{75}
+\contentsline {section}{zapad (m)}{75}
+\contentsline {section}{\relax $\@@underline {\hbox {doba (n)}}\mathsurround \z@ $\relax }{75}
+\contentsline {section}{prolje\IeC {\'c}e (n)}{75}
+\contentsline {section}{ljeto (n)}{76}
+\contentsline {section}{jesen (f)}{76}
+\contentsline {section}{zima (f)}{76}
+\contentsline {section}{\relax $\@@underline {\hbox {mjesec (m)}}\mathsurround \z@ $\relax }{76}
+\contentsline {section}{sije\IeC {\v c}anj (m)}{77}
+\contentsline {section}{velja\IeC {\v c}a (f)}{77}
+\contentsline {section}{o\IeC {\v z}ujak (m)}{77}
+\contentsline {section}{travanj (m)}{77}
+\contentsline {section}{svibanj (m)}{77}
+\contentsline {section}{lipanj (m)}{77}
+\contentsline {section}{srpanj (m)}{78}
+\contentsline {section}{kolovoz (m)}{78}
+\contentsline {section}{rujan (m)}{78}
+\contentsline {section}{listopad (m)}{78}
+\contentsline {section}{studeni (m)}{78}
+\contentsline {section}{prosinac (m)}{78}
+\contentsline {section}{januar (m)}{79}
+\contentsline {section}{februar (m)}{79}
+\contentsline {section}{mart (m)}{79}
+\contentsline {section}{april (m)}{79}
+\contentsline {section}{maj (m)}{79}
+\contentsline {section}{jun (m)}{80}
+\contentsline {section}{jul (m)}{80}
+\contentsline {section}{avgust (m)}{80}
+\contentsline {section}{septembar (m)}{80}
+\contentsline {section}{oktobar (m)}{81}
+\contentsline {section}{novembar (m)}{81}
+\contentsline {section}{decembar (m)}{81}
+\contentsline {section}{\relax $\@@underline {\hbox {tjedan (m)}}\mathsurround \z@ $\relax }{81}
+\contentsline {section}{ponedjeljak (m)}{81}
+\contentsline {section}{utorak (m)}{82}
+\contentsline {section}{srijeda (f)}{82}
+\contentsline {section}{\IeC {\v c}etvrtak (m)}{82}
+\contentsline {section}{petak (m)}{82}
+\contentsline {section}{subota (f)}{82}
+\contentsline {section}{nedjelja (f)}{83}
+\contentsline {section}{\relax $\@@underline {\hbox {vrijeme (n)}}\mathsurround \z@ $\relax }{83}
+\contentsline {section}{godina (f)}{83}
+\contentsline {section}{sat (m)}{83}
+\contentsline {section}{minuta (f)}{83}
+\contentsline {section}{sekunda (f)}{84}
+\contentsline {section}{jutro (n)}{84}
+\contentsline {section}{podne (n)}{84}
+\contentsline {section}{prijepodne (m)}{84}
+\contentsline {section}{poslijepodne (n)}{85}
+\contentsline {section}{ve\IeC {\v c}er (f)}{85}
+\contentsline {section}{no\IeC {\'c} (f)}{85}

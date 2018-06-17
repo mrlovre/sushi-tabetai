@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+**/*.aux
+**/*.log
+**/__pycache__
+**/.idea
+**/*.synctex.gz
